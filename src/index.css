@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina|Comfortaa|PT+Sans|Lato');
+@import url('https://pgoldman0805.github.io/styles/Main.css');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Comfortaa", "Helvetica", sans-serif;
+    color: #222;
+    letter-spacing: 0.1em; }
+    #title-group {
+        text-align: center; }
+
+h1,
+h2,
+h3,
+h4,
+.navbar-brand,
+.navbar li {
+  font-variant: small-caps;
+  color: black; }
+
+  #title-name {
+    font-size: 7rem !important;
+    font-weight: bold;
+ }
+
